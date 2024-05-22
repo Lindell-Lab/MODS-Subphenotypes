@@ -1,10 +1,10 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 <div id="dysregulated-stat3-signaling-and-t-cell-immunometabolic-dysfunction-define-a-targetable-high-mortality-subphenotype-of-pediatric-critical-illness" class="section level1">
-<h1>Dysregulated STAT3 signaling and T cell immunometabolic dysfunction
+<h1><img src="figures/lindell_lab.png" width="150px" align="right" />Dysregulated STAT3 signaling and T cell immunometabolic dysfunction
 define a targetable, high mortality subphenotype of pediatric critical
 illness
-<img src="figures/lindell_lab.png" width="150px" align="right" /></h1>
+</h1>
 
 <p>Sepsis is the leading cause of death of hospitalized children
 worldwide.</p>
@@ -19,7 +19,7 @@ including patients with and without sepsis, to define <b>subphenotypes
 associated with targetable mechanisms of immune dysregulation.</b></p>
 <div id="ats-presentation" class="section level2">
 <h2>ATS Presentation</h2>
-<p><img src="figures/ats_poster.png" width="500px" align="center" /></p>
+<p><img src="figures/ats_poster.png" width="800px" align="center" /></p>
 </div>
 <div id="preprint" class="section level2">
 <h2>Preprint</h2>
