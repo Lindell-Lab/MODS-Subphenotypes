@@ -19,7 +19,7 @@ including patients with and without sepsis, to define <b>subphenotypes
 associated with targetable mechanisms of immune dysregulation.</b></p>
 <div id="ats-presentation" class="section level2">
 <h2>ATS Presentation</h2>
-<p><img src="figures/ats_poster.png" width="800px" align="center" /></p>
+<p><img src="figures/ats_poster.png" width="100%" align="center" /></p>
 </div>
 <div id="preprint" class="section level2">
 <h2>Preprint</h2>
